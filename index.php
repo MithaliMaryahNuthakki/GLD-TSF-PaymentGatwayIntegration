@@ -40,7 +40,7 @@
 			They have their own dreams. What we need to do is to give our helping hands to acheive them.
 			<br>When the slightest of though and help can make a huge change,then why don't we?
 		</p>
-		<img class="landscapeimage"src="pictures/landscape.JPG" >	
+		<img class="landscapeimage"src="pictures/landscape.jpg" >	
 		
 		<p>The children in orphanages don't expect much from us, all they desire for is love and support.
 		  <br>We can bring a smile to their pretty little faces with just spending some time with them.
