@@ -28,7 +28,7 @@
 		<div class="card-body">
 			<p>"Today's seeds are tomorrow's trees,<br> Start donation see the growth."
 			 <h6 class="text-uppercase font-weight-bold">
-          			<a style="color:black;" class="badge-warning"href="https://rzp.io/l/q0X11T7b">Donate <i class="fa fa-gift" aria-hidden="true"></i></a>
+          			<a style="color:black font-size:1.2vw;" class="badge-warning"href="https://rzp.io/l/q0X11T7b">Donate <i class="fa fa-gift" aria-hidden="true"></i></a>
         		</h6>
      			 </p>
 		</div>
