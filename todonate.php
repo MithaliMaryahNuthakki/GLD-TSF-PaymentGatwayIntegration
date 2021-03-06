@@ -33,7 +33,7 @@
 				<div class="col-md-8">
 				  <div class="card-body">
 					<h5 class="card-title"><i class="fa fa-futbol-o"></i> Toys </h5>
-					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+					<p class="card-text">Give children toys that are powered by their imagination, not by batteries.</p>
 					
 				  </div>
 				</div>
@@ -47,7 +47,8 @@
 				<div class="col-md-8">
 				  <div class="card-body">
 					<h5 class="card-title"><img src="https://img.icons8.com/material/24/000000/dress-front-view.png"/>Clothes/Acceesories</h5>
-					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+					<p class="card-text">“I want everyone to wear what they want and mix it in their own way. That, to me, is what is modern.”
+― Karl Lagerfeld</p>
 					
 				  </div>
 				</div>
@@ -63,7 +64,7 @@
 			<div class="col-md-8">
 			  <div class="card-body">
 				<h5 class="card-title"><i class="fa fa-book"></i>Books </h5>
-				<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				<p class="card-text">“Once you learn to read, you will be forever free.” — Frederick Douglass.</p>
 				
 			  </div>
 			</div>
@@ -77,7 +78,7 @@
 			<div class="col-md-8">
 			  <div class="card-body">
 				<h5 class="card-title"><i class="fa fa-pencil-square-o"> </i> Stationary</h5>
-				<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				<p class="card-text">"Etch your vision in stone-but sketch your strategy in pencil." – Steven Furtick</p>
 				
 			  </div>
 			</div>
@@ -94,7 +95,7 @@
 			  <div class="card-body">
 				<h5 class="card-title"><i class="fa fa-paint-brush" aria-hidden="true"></i>
 	Arts & Crafts </h5>
-				<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				<p class="card-text">"Everyone has a colorful life. You just have to get out your crayons." Benay Nordby</p>
 				
 			  </div>
 			</div>
@@ -108,7 +109,7 @@
 			<div class="col-md-8">
 			  <div class="card-body">
 				<h5 class="card-title"><i  class="fa fa-money"></i> Money</h5>
-				<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+				<p class="card-text">Small amounts can buy infinite amount of happiness for kids.</p>
 				
 			  </div>
 			</div>
